@@ -9,14 +9,14 @@ int main()
     int casas;
 
     printf("Digite o valor do salario minimo: ");
-    scanf("%f", &salarioMinimo);
+    scanf("%f", &salariominimo);
 
     printf("Digite o valor do dolar: ");
     scanf("%f", &dolar);
 
     dinheiro = 10000000 * dolar;
 
-    casa = 150 * salarioMinimo;
+    casa = 150 * salariominimo;
 
     casas = dinheiro / casa;
 
