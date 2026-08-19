@@ -1,1 +1,1 @@
-# exercico02
+# Atividade de Algoritmos e Programação II
